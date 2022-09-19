@@ -18,7 +18,7 @@ const Skills = () => {
           My <span className="text-cyan-600">Skills</span>
         </h3>
         <p className="text-gray-400 mt-3 text-lg">I Use Woork</p>
-        <div className="flex items-center justify-center mt-12 gap-10 flex-wrap">
+        <div className="flex items-center justify-center mt-12 gap-10 flex-wrap container sm:container p-3">
           <img src={aboutImg} alt="" className="h-28" />
           <img src={aboutImg1} alt="" className="h-28" />
           <img src={aboutImg2} alt="" className="h-28" />

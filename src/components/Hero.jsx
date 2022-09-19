@@ -1,5 +1,18 @@
 import React from "react";
 import hero from "../assets/images/Group o.png";
+// import { manipulateAsync, SaveFormat } from 'expo-image-manipulator';
+
+// const compressImage = async (uri, format = SaveFormat.JPEG) => {
+//   SaveFormat.PNG
+//   const result = await manipulateAsync(
+//     uri,
+//     [{ resize: { width: 1200 } }],
+//     { compress: 0.7, format }
+//   );
+
+//   return { name: `${Date.now()}.${format}`, type: `image/${format}`, ...result };
+//   // return: { name, type, width, height, uri }
+// };
 const Hero = () => {
   const social_media = [
     "logo-instagram",
