@@ -11,7 +11,17 @@ const About = () => {
         <div className="flex md:flex-row flex-col-reverse items-center md:gap-6 gap-12 px-10 max-w-6xl mx-auto">
           <div className="p-2">
             <div className="text-gray-300 my-3">
-              <p className="text-justify leading-7 w-11/12 mx-auto">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Incidunt, laboriosam animi. Nihil, inventore? Mollitia nesciunt expedita ullam inventore quae nam iusto asperiores nihil obcaecati quaerat soluta quibusdam eius, aperiam, nisi quidem optio. Eum ea voluptas cumque illo natus, blanditiis cupiditate itaque eos perspiciatis, doloremque soluta. Voluptatem aut ad quis iusto necessitatibus? In, tenetur blanditiis voluptatum nemo ut recusandae atque voluptates laborum provident! Rerum quisquam perferendis at et unde adipisci provident vitae odio consectetur ipsa deleniti cupiditate dolorem animi voluptatibus cumque corrupti corporis fuga obcaecati, voluptas non? Laborum ducimus voluptas modi officiis quaerat. At sint dicta dolores dolorum rerum culpa alias?
+              <p className="text-justify leading-7 w-11/12 mx-auto">
+                Kenpa kamu harus melihat ini ?? Bagaimana Anda
+                tahu saya seorang Web Devoloper ?? Seperti apa
+                anda mengenal dunia programmer?? Apakah
+                anda masih butuh jasa promosi lewat web ??
+                Bagaimana jika anda membuat dan melakukanya
+                sendirian ?? jika anda mau maka anda bisa pasti
+                bisa membuat nya sendirian... Namun jika anda masih
+                mengalami banyak kesulitan mengapa anda tidak
+                mencoba menggunakan jasa ?? mau  dengan mudah
+                bisa hubungin saya......
               </p>
               <br />
               <br />
